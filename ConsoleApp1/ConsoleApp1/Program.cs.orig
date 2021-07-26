@@ -12,8 +12,11 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!1,2,3,4m5");
             Console.WriteLine("Hello World!1,2,3,4m5");
-            Console.WriteLine("Hello World!1,2,3,4m5");
-            Console.WriteLine("Hello World!1,2,3222222,4m522222222");
+<<<<<<< HEAD
+            Console.WriteLine("Hello World!1,2,3,4m51111111133333333");
+=======
+            Console.WriteLine("Hello World!1,2,3,4m522222222");
+>>>>>>> 990a0bb7f18a66915886897fa0353945b9fecf2f
         }
     }
 }
